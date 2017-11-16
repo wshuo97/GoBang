@@ -98,6 +98,7 @@ public class GameWindow extends JFrame {
                     enemy[model].searchNext();
                 }
             };
+            thread.start();
         }
         panel.repaint();
     }
