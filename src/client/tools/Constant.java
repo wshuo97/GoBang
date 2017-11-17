@@ -29,7 +29,6 @@ public class Constant {
 
     //net about
     public static final String SERVER_IP = "192.168.134.120";
-    //public static final String SERVER_IP="115.159.184.121";
     public static final int SERIAL = 8621;
 
     //file path
