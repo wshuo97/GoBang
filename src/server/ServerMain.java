@@ -43,6 +43,7 @@ public class ServerMain {
     public static void alterNumber(int id) {
         number--;
         thread[id] = null;
+        dos[id] = null;
     }
 }
 
